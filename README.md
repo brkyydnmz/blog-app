@@ -8,6 +8,10 @@
 ## Usage
 
 ```sh
+npm npm install
+```
+
+```sh
 npm run start
 ```
 
