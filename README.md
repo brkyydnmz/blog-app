@@ -8,7 +8,7 @@
 ## Usage
 
 ```sh
-npm npm install
+npm install
 ```
 
 ```sh
